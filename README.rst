@@ -117,11 +117,11 @@ Licensed under `the MIT license`_.
   :target: `Coveralls`_
   :alt: Coveralls results_
 
-.. |pip version| image:: https://pypip.in/v/pluginloader/badge.png
+.. |pip version| image:: https://img.shields.io/pypi/v/pluginloader.svg
     :target: https://pypi.python.org/pypi/pluginloader
     :alt: Latest PyPI version
 
-.. |pip downloads| image:: https://pypip.in/d/pluginloader/badge.png
+.. |pip downloads| image:: https://img.shields.io/pypi/dm/pluginloader.svg
     :target: https://pypi.python.org/pypi/pluginloader
     :alt: Number of PyPI downloads
 
